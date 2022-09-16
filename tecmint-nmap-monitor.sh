@@ -1,12 +1,4 @@
-                  ####################################################################################################
-                  #                                                                                                  #
-                  #                                      Tecmint-nmap_monitor.sh                                     #
-                  # Written for mini project for the post https://github.com/krishnansai                             #
-                  # If any bug, report us in the link below                                                          #
-                  # Free to use/edit/distribute the code below by                                                    #
-                  # giving proper credit to twin sai tech and Author                                                 #
-                  #                                                                                                  #
-                  ####################################################################################################
+
 #! /bin/bash
 # unset any variable which system may be using
 
